@@ -2,13 +2,13 @@
     "name": "app",
     "version": "0.1.0",
     "private": true,
-    "scripts": {
-        "dev": "next dev",
-        "build": "next build",
-        "start": "next start",
-        "lint": "next lint",
-        "vercel-build": "npm install --legacy-peer-deps && npm run build"
-    },
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint",
+  "vercel-build": "npm install --legacy-peer-deps && npm run build"
+}
     "dependencies": {
         "@emotion/react": "^11.10.4",
         "@emotion/styled": "^11.10.4",
